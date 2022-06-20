@@ -28,6 +28,7 @@ _An application that allows users to review and track their favorite (or least f
 #### Monday, 06/20
 * 2:35 - 2:55 | Research Google Books APIs functionality.
 * 2:55 - 3:08 | Review capstone assignment specifications.
+* 3:30 - 3:40 | Researching Firebase and Reactstrap while completing proposal.
 
 
 ## Known Bugs
