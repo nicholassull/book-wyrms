@@ -24,39 +24,12 @@ _An application that allows users to review and track their favorite (or least f
 > git clone https://github.com/nicholassull/pizza-parlor
 * _Open index.html_
 
-## Specifications
-```
-Describe: Pizza()
+## Research & Planning Log
+#### Monday, 06/20
+* 2:35 - 2:55 | Research Google Books APIs functionality.
+* 2:55 - 3:08 | Review capstone assignment specifications.
 
-Test: Create a new Pizza object with a size of 1.
-Code: 
-> newPizza(1)
-> console.log(newPizza.size)
-Expected Output: 1
-```
-```
-Describe: Pizza.prototype.price()
 
-Test: It should output a number according to the size of newPizza
-Code: 
-> newPizza.price()
-Expected Output: 10
-
-Test: It should increase the cost of the pizza by 1 for every topping in newPizza.toppings.
-Code:
-> newPizza.toppings = ["mushrooms", "onions"]; 
-> newPizza.price();
-Expected Output: 12
-```
-```
-Describe: Pizza.prorotype.sizeName()
-
-Test: It should return "Small", "Medium", or "Large" based on the size number of a Pizza object.
-Code:
-> newPizza.size = 1;
-> newPizza.sizeName();
-Expected Output: "Small"
-```
 ## Known Bugs
 
 * _No known bugs at this time._
