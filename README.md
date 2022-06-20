@@ -30,6 +30,7 @@ _An application that allows users to review and track their favorite (or least f
 * 2:55 - 3:08 | Review capstone assignment specifications.
 * 3:30 - 3:40 | Researching Firebase and Reactstrap while completing proposal.
 * 3:40 - 4:15 | More research into Google Books APIs endpoints.
+* 4:20 - 4:55 | Finding useful tutorials on using Firebase to let users sign in with Google Accounts.
 
 
 ## Known Bugs
