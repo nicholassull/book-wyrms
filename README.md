@@ -21,7 +21,7 @@ _An application that allows users to review and track their favorite (or least f
 
 * _Open your terminal and navigate to the folder you'd like to download the files into._
 * _Run the command below_
-> git clone https://github.com/nicholassull/pizza-parlor
+> git clone https://github.com/nicholassull/book-wyrms.git
 * _Open index.html_
 
 ## Research & Planning Log
