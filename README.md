@@ -32,6 +32,8 @@ _An application that allows users to review and track their favorite (or least f
 * 3:40 - 4:15 | More research into Google Books APIs endpoints.
 * 4:20 - 4:55 | Finding useful tutorials on using Firebase to let users sign in with Google Accounts.
 * 4:55 - 5:30 | Reviewing React and Redux fundamentals.
+#### Tuesday, 06/21
+* 11:00 - 12:10 | Researching how to get Bootstrap working with React and working with API calls in React.
 
 
 ## Known Bugs
