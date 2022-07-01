@@ -34,6 +34,8 @@ _An application that allows users to review and track their favorite (or least f
 * 4:55 - 5:30 | Reviewing React and Redux fundamentals.
 #### Tuesday, 06/21
 * 11:00 - 12:10 | Researching how to get Bootstrap working with React and working with API calls in React.
+#### Friday, 07/01
+* 12:30pm - 2:00 pm | Reviewing queries and saving data to Firestore.
 
 
 ## Known Bugs
