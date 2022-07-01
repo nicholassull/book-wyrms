@@ -35,7 +35,8 @@ _An application that allows users to review and track their favorite (or least f
 #### Tuesday, 06/21
 * 11:00 - 12:10 | Researching how to get Bootstrap working with React and working with API calls in React.
 #### Friday, 07/01
-* 12:30pm - 2:00 pm | Reviewing queries and saving data to Firestore.
+* 12:30pm - 2:00pm | Reviewing queries and saving data to Firestore.
+* 2:00pm - 2:45pm | Plan and create component diagram.
 
 
 ## Known Bugs
