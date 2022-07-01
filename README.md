@@ -37,6 +37,7 @@ _An application that allows users to review and track their favorite (or least f
 #### Friday, 07/01
 * 12:30pm - 2:00pm | Reviewing queries and saving data to Firestore.
 * 2:00pm - 2:45pm | Plan and create component diagram.
+* 3:00pm - 4:10pm | Researching TypeScript and React Router
 
 
 ## Known Bugs
