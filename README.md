@@ -38,6 +38,8 @@ _An application that allows users to review and track their favorite (or least f
 * 12:30pm - 2:00pm | Reviewing queries and saving data to Firestore.
 * 2:00pm - 2:45pm | Plan and create component diagram.
 * 3:00pm - 4:10pm | Researching TypeScript and React Router
+#### Saturday, 07/02
+* 3:30pm - 4:20pm | Practice React Router and plan my own routes.
 
 
 ## Known Bugs
